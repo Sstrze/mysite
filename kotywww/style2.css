@@ -1,0 +1,70 @@
+.content2
+{
+    width: 560px;
+    height: 400px;
+    margin-left: 220px;
+    margin-top: 0px;
+   
+}
+
+#tabela
+{
+    width: 300px;
+    
+}
+
+.kolorkawy
+{
+    font-size: 18px;
+    padding: 15px;
+    font-family: 'Courgette', cursive;
+}
+
+.food
+{
+    font-size: 18px;
+    font-family: 'Courgette', cursive;
+}
+
+#title
+{
+   width: 200px; 
+   overflow: hidden;
+}
+
+h1
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: 'Courgette', cursive;
+}
+
+.rodzaje
+{
+    font-size: 12px;
+    margin-left: 18px;
+}
+
+.socialmedia
+{
+    width: 45px;
+    height: 110px;
+    margin-top: -68px;
+    float: left;
+}
+
+#icons
+{
+    width: 230px;
+    height: 230px;
+    margin-left: 330px;
+    
+}
+
+.tekst
+{
+    text-align: justify;
+    font-size: 22px;
+    line-height: 60px;
+    font-family: "Courgette";
+}
